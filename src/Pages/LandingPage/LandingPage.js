@@ -34,13 +34,6 @@ const LandingPage = () => {
                     </div>
                 </div>
             </div>
-            {/* {
-                !userData.token ? (
-                    <div className="Home_Login">
-                        <h1>Please SignIn / SignUp to continue</h1>
-                    </div>
-                ) : null
-            } */}
 
         </div>
     )
